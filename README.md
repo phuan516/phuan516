@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Peter</h1>
 <h3 align="center">A Computer Science and Business Student passionate about front-end development</h3>
 
-- 🌱 I’m currently learning: **Godot**
+- 🌱 I’m currently learning: **Godot, Svelte, Python**
 
 - 📫 How to reach me: **phuan516@mtroyal.ca**
 
