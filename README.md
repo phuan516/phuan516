@@ -5,7 +5,7 @@
 
 - 📫 How to reach me: **phuan516@mtroyal.ca**
 
-- 📄 Know about my experiences: [Resume](https://peterhuang.vercel.app/Peter%20Huang%20-%20Resume.pdf)
+- 📄 Know about my experiences: [**Resume**](https://peterhuang.vercel.app/Peter%20Huang%20-%20Resume.pdf)
 
 - ⚡ Fun fact: **Once I got 3 speeding tickets in one afternoon**
 
