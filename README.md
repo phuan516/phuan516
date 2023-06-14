@@ -13,7 +13,5 @@
 <hr/>
 
 <p align="center">
-  <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=bash,bootstrap,css,express,gcp,graphql,html,js,nextjs,nodejs,react,tailwind,ts,vercel" />
-  </a>
 </p>
